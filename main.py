@@ -129,7 +129,7 @@ class CustomTkinterApp:
 def CustomTkinter():
     root = tk.Tk()
     app = CustomTkinterApp(root)
-    root.mainloop() 
+    root.mainloop()  
 
 if __name__ == "__main__":
     CustomTkinter()
