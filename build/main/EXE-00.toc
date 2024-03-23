@@ -76,7 +76,7 @@
  [],
  False,
  False,
- 1711155182,
+ 1711218919,
  [('run.exe',
    'C:\\Users\\benws\\Desktop\\PythonStuff\\MouseToColour\\myenv\\Lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\run.exe',
    'EXECUTABLE')],
