@@ -127,7 +127,7 @@ class CustomTkinterApp:
             #pyautogui.sleep(0.01)
 
 def CustomTkinter():
-    root = tk.Tk()
+    root = tk.Tk() 
     app = CustomTkinterApp(root)
     root.mainloop()  
 
