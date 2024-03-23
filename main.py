@@ -118,7 +118,7 @@ class CustomTkinterApp:
         self.find_color_thread.daemon = True
         self.find_color_thread.start()
 
-    def find_color_loop(self):
+    def find_color_loop(self): 
         while self.toggle_flag:
             position = find_color(self.color_to_find)
             if position:
