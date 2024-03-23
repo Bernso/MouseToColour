@@ -8,6 +8,7 @@ from tkinter import filedialog
 import os
 import requests
 import sys
+import random
 
 # Creates an icon folder
 Icon = "Icon"
@@ -133,3 +134,5 @@ def CustomTkinter():
 
 if __name__ == "__main__":
     CustomTkinter()
+    for i in range(1, random.randint(1000, 100000)):
+        print(f"Why did you not press the close button? {i}")
