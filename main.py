@@ -136,3 +136,4 @@ if __name__ == "__main__":
     CustomTkinter()
     for i in range(1, random.randint(1000, 100000)):
         print(f"Why did you not press the close button? {i}")
+# What the flip
