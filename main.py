@@ -13,7 +13,7 @@ import sys
 Icon = "Icon"
 if os.path.exists(Icon):
     print("'Icon' folder already exists")
-else:
+else: 
     print("Creating Icon folder")
     os.makedirs(Icon)
     print("'Icon' folder created")
